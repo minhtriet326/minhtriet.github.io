@@ -8,9 +8,10 @@ date:   2018-10-22 22:00:00
 
 # Abstract
 
-Gas market is one type of commodities markets. While most of them are not sensitive with news, gas market have become more financialized, making anincrement in their sensitivity to both macroeconomic news and surprise interestrate changes (Roache and Rossi, 2009). In fact, nowadays they follows sameoperation with stock market, which is known for its sensitivity toward news.Finding sentimental meaning and creating knowledge graph from raw textattracts many works. Statistical method like TF-IDF, Bags of Words can serveas a feature for raw text but they cannot capture the semantic behind.
+Gas market is one type of commodities markets. Unlike most of them, gas market are more and more sensitive to news (Roache and Rossi, 2009). In fact, their sensitivity are getting to the same level of  stock market. Therefore, integrating sentimental meaning and creating a knowledge graph from news can serve as a feature in market prediction. 
 The potential contribution of this paper is
-- Build the knowledge graph Learning the semantic from this knowledge graph.
+- Build the knowledge graph 
+- Learning the semantic from this knowledge graph.
 - Use them as a feature for prediction
 
 # Experiment
