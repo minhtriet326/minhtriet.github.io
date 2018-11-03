@@ -17,7 +17,9 @@ The potential contribution of this paper is
 # Experiment
 
 ## Data curation
-The database used in this work consists of articles from The New York Times and the Guardian. <mark>News are then manually compared with Quarterly Reports on Gas Market of European Council to see if they have covered all of the information in these reports. Normally important elements that affect spot market are:
+The database used in this work consists of articles from The New York Times and the Guardian. 
+```
+News are then manually compared with Quarterly Reports on Gas Market of European Council to see if they have covered all of the information in these reports. Normally important elements that affect spot market are:
 - Dispute, mainly between Russia and Ukraine
 - Change in temperature that increases or decreases heating demand
 - The economic slowdown 
@@ -25,10 +27,11 @@ The database used in this work consists of articles from The New York Times and 
 
 What affects electricity demands
 - To be added
+
 Elements that affect future market
 - The economic slowdown
+```
 
-</mark>
 Each news article consists of its headline, abstract, lead paragraph and publishing date. The publishing date is used to allign with the corresponding price in the financial series. The price series from Future and Spot Market is also included, graciously provided by Bayer AG.
 
 Data cover the period from October 20, 2006 to September 31, 2018
