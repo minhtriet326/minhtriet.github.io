@@ -19,6 +19,7 @@ The potential contribution of this paper is
 ## Data curation
 The database used in this work consists of articles from The New York Times and the Guardian. 
 
+<em>
 ---
 ---
 News are then manually compared with Quarterly Reports on Gas Market of European Council to see if they have covered all of the information in these reports. Normally important elements that affect spot market are:
@@ -35,7 +36,7 @@ Elements that affect future market
 
 ---
 ---
-
+</em>
 Each news article consists of its headline, abstract, lead paragraph and publishing date. The publishing date is used to allign with the corresponding price in the financial series. The price series from Future and Spot Market is also included, graciously provided by Bayer AG.
 
 Data cover the period from October 20, 2006 to September 31, 2018
