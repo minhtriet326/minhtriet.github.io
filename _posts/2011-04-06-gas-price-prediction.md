@@ -40,7 +40,22 @@ Data cover the period from October 20, 2006 to September 31, 2018
 
 The data is split into a series of windows, each has the length of 20. The stride of the window is 7. Target is the price in three days after each window.  We are currently using Glove embedding to convert the abstract of the news into vector.
 
-Loss is Mean Square Error
+Loss function being used is Mean Square Error
+
+## Knowledge graph first idea
+<mark>
+Event: Dispute between Russia and Ukraine in 2009 that leads to 13 days Natural gas cut off in Europe. 
+October 2008: Ukrainian and Russian Prime Ministers signed a deal that. 
+•Appoint Naftogaz as the only importer of Ukraine. 
+•Raise import prices and transit taxes based on mutual agreement. 
+November 2008: Naftogas (UA) and Gazprom (RU) disputed in transit fee and import price. 
+… many pointing fingers and settlements in between. 
+•December 19: Gazprom stated that no supply contract could be signed for 2009. 
+•January 7: deliveries to Europe completely cut off. 
+… EU Commitee took action. 
+January 22: Gas flows to Europe return to normal level. 
+
+
 ## Training result
 ![Legend](/assets/legend.JPG)
 <img src="/assets/train_acc.JPG">
