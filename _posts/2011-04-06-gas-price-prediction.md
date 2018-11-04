@@ -21,12 +21,16 @@ The database used in this work consists of articles from The New York Times and 
 
 <mark>
 News are then manually compared with Quarterly Reports on Gas Market of European Council to see if they have covered all of the information in these reports. Normally important elements that affect spot market are:
-- Dispute, mainly between Russia and Ukraine
-- Change in temperature that increases or decreases heating demand
+(1) Dispute, mainly between Russia and Ukraine
+(2) Change in temperature that increases or decreases heating demand
 (3) The economic slowdown 
 (4) Demand of power generators, this depends on demand of electricity  
+
+<mark>
 What affects electricity demands
 (1) To be added
+
+<mark>
 Elements that affect future market
 (1) The economic slowdown
 </mark>
