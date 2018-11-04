@@ -33,7 +33,7 @@ What affects electricity demands
 <mark>
 Elements that affect future market
 (1) The economic slowdown
-</mark>
+
 Each news article consists of its headline, abstract, lead paragraph and publishing date. The publishing date is used to allign with the corresponding price in the financial series. The price series from Future and Spot Market is also included, graciously provided by Bayer AG.
 
 Data cover the period from October 20, 2006 to September 31, 2018
