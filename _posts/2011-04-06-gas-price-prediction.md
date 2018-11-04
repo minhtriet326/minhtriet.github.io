@@ -19,9 +19,9 @@ The potential contribution of this paper is
 ## Data curation
 The database used in this work consists of articles from The New York Times and the Guardian. 
 
+_New_
 
 ---
-_New_
 ---
 News are then manually compared with Quarterly Reports on Gas Market of European Council to see if they have covered all of the information in these reports. Normally important elements that affect spot market are:
 - Dispute, mainly between Russia and Ukraine
