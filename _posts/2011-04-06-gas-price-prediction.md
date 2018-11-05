@@ -19,20 +19,23 @@ The potential contribution of this paper is
 ## Data curation
 The database used in this work consists of articles from The New York Times and the Guardian. 
 
-<mark>
+<mark>NEW
+
 News are then manually compared with Quarterly Reports on Gas Market of European Council to see if they have covered all of the information in these reports. Normally important elements that affect spot market are:
-(1) Dispute, mainly between Russia and Ukraine
-(2) Change in temperature that increases or decreases heating demand
-(3) The economic slowdown 
-(4) Demand of power generators, this depends on demand of electricity  
+- Dispute, mainly between Russia and Ukraine
+- Weather conditions
+- The economic slowdown (GDP can be an indicators)
+- Demand of power generators, this depends on demand of electricity  
+- Liquidity (Platts service, cost money)
+- Import amounts, corellates with GDP, can download one in two
 
-<mark>
 What affects electricity demands
-(1) To be added
+- To be added
 
-<mark>
 Elements that affect future market
-(1) The economic slowdown
+- The economic slowdown
+
+<mark>END
 
 Each news article consists of its headline, abstract, lead paragraph and publishing date. The publishing date is used to allign with the corresponding price in the financial series. The price series from Future and Spot Market is also included, graciously provided by Bayer AG.
 
@@ -43,19 +46,20 @@ The data is split into a series of windows, each has the length of 20. The strid
 Loss function being used is Mean Square Error
 
 ## Knowledge graph first idea
-<mark>
+<mark>NEW
+
 Event: Dispute between Russia and Ukraine in 2009 that leads to 13 days Natural gas cut off in Europe. 
-October 2008: Ukrainian and Russian Prime Ministers signed a deal that. 
-•Appoint Naftogaz as the only importer of Ukraine. 
-•Raise import prices and transit taxes based on mutual agreement. 
-November 2008: Naftogas (UA) and Gazprom (RU) disputed in transit fee and import price. 
-… many pointing fingers and settlements in between. 
-•December 19: Gazprom stated that no supply contract could be signed for 2009. 
-•January 7: deliveries to Europe completely cut off. 
+- October 2008: Ukrainian and Russian Prime Ministers signed a deal that. 
+    - Appoint Naftogaz as the only importer of Ukraine. 
+    - Raise import prices and transit taxes based on mutual agreement. 
+- November 2008: Naftogas (UA) and Gazprom (RU) disputed in transit fee and import price. 
+- … many pointing fingers and settlements in between. 
+- December 19: Gazprom stated that no supply contract could be signed for 2009. 
+- January 7: deliveries to Europe completely cut off. 
 … EU Commitee took action. 
-January 22: Gas flows to Europe return to normal level. 
+- January 22: Gas flows to Europe return to normal level. 
 
-
+<mark>END
 ## Training result
 ![Legend](/assets/legend.JPG)
 <img src="/assets/train_acc.JPG">
