@@ -47,7 +47,7 @@ Loss function being used is Mean Square Error
 
 ## Knowledge graph first idea
 <mark>NEW
-
+An interlinked event for the knowledge graph
 Event: Dispute between Russia and Ukraine in 2009 that leads to 13 days Natural gas cut off in Europe. 
 - October 2008: Ukrainian and Russian Prime Ministers signed a deal that. 
     - Appoint Naftogaz as the only importer of Ukraine. 
@@ -66,11 +66,15 @@ Event: Dispute between Russia and Ukraine in 2009 that leads to 13 days Natural 
 <img src="/assets/val_acc.JPG">
 
 # Proposing next steps
+
+<mark> NEW
+
 Next step:
-- Detect entities and verb to form a knowledge graph
-- Link interlinked news together
-- Make a knowledge graph
-- Use knowledge graph as a feature for prediction
+- Words will be map to their classes
+- Link close date, time and entities together
+- Prove of knowledge graph
+
+<mark> END
 
 # Reference
 Roache, Shaun K and Marco Rossi (2009).The Effects of Economic News onCommodity Prices
