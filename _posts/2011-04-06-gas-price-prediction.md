@@ -70,10 +70,11 @@ Event: Dispute between Russia and Ukraine in 2009 that leads to 13 days Natural 
 <mark> NEW
 
 Next step:
-- Words will be map to their classes
+- Forward email to check taxonomy, if it is CEVO
+- Words from news will be map to their taxonomy classes (warns -> advise)
 - Link close date, time and entities together
-- Prove of knowledge graph
-
+- Prove of knowledge graph (node4j)
+- Still no machine learning to this point
 <mark> END
 
 # Reference
