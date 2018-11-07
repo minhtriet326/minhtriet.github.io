@@ -16,6 +16,8 @@ The potential contribution of this paper is
 - Learning the semantic from this knowledge graph.
 - Use them as a feature for prediction
 
+# Introduction
+
 # Experiment
 
 ## Data curation
