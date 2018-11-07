@@ -6,6 +6,8 @@ excerpt: News article can influence stock market, or any market that perform on 
 date:   2018-10-22 22:00:00
 ---
 
+<mark> This is an ongoing document and will be updated in weekly basis
+
 # Abstract
 
 Gas market is one type of commodities markets. Unlike most of them, gas market are more and more sensitive to news (Roache and Rossi, 2009). In fact, their sensitivity are getting to the same level of  stock market. Therefore, integrating sentimental meaning and creating a knowledge graph from news can serve as a feature in market prediction. 
