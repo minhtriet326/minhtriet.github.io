@@ -4,6 +4,7 @@ comments: false
 title:  "News to knowledge graph to prediction"
 excerpt: News article can influence stock market, or any market that perform on similar basis. In this paper we aim to create a knowledge graph of linked events and apply to financial series prediction
 date:   2018-10-22 22:00:00
+mathjax: true
 ---
 
 <mark> This is an ongoing document and will be updated in weekly basis
@@ -23,33 +24,37 @@ The potential contribution of this paper is
 # Experiment
 
 ## Data curation
-The database used in this work consists of articles from The New York Times and the Guardian. 
+subsection{Data Description}
 
-<mark>NEW
+Training data includes price series from Bayer's AG specific suppliers in the GPL and NCG trading hub. News articles are from The New York Times and The Guardian (\citet{nytimes_api, guardian_api}) published
+ from October 20, 2006 to November 21, 2013. 
+ \subsubsection{The New York Times}
+ As The New York Times only allow downloading every news any given month and year without any filtering, we came up with a crude discrimination rule by sections, leaving out Blog, OpEd, Editorial, and keeping news that contains some keywords like 'Energy', 'Natural Gas' or 'Petroleum'. Each news article consists of its headline, abstract, lead paragraph and publishing date.
+ \subsubsection{The Guardian}
+ The Guardian support search by keywords and section. Articles about natural gas price are categorized into Business section, while events are into World section.
+\subsection{Baselines}
+We investigate the effect of news on the Future and Sport Market. Concretely let $X$ be the word embedding of news headline, $Y \in \{0,1\}$ in which 0 means equal or decreasing price in comparison with the previous day, 1 otherwise, $n$ the news published day, $n+k$ the next $k$ trading day.  A Chained CRF is used in combination with the word embedding vector to classify $Y_{n+k}$ from $X_n$
 
-News are then manually compared with Quarterly Reports on Gas Market of European Council to see if they have covered all of the information in these reports. Normally important elements that affect spot market are:
-- Dispute, mainly between Russia and Ukraine
-- Weather conditions
-- The economic slowdown (GDP can be an indicators)
-- Demand of power generators, this depends on demand of electricity  
-- Liquidity (Platts service, cost money)
-- Import amounts, corellates with GDP, can download one in two
 
-What affects electricity demands
-- To be added
+% Can be some weird stuffs: Who owns the artic, nytimes
 
-Elements that affect future market
-- The economic slowdown
 
-<mark>END
+\begin{table}[]
+\begin{tabular}{|l||l|l|l|l|l|l||l|l|l|l|l|l|}
+\hline
+Data & \multicolumn{6}{|l||}{Future Market} & \multicolumn{6}{l|}{Spot Market} \\
+\hline
+$k$      & 1 & 2 & 3 & 4 & 5 & 6 & 1 & 2 & 3 & 4 & 5 & 6 \\
+\hline
+\hline
+1st Paragraph & 0.5187 & 0.5317 & 0.5159  & 0.5159  & 0.4957 & 0.5051 & 0.5147 & 0.5073  &  0.5220 & 0.4982  & 0.5018  & 0.4991 \\
+Header & 0.5048 & 0.5478 & 0.4378 & 0.5359 & 0.5383 & 0.5383 & 0.5421 & 0.5387 & 0.5286 & 0.5354 & 0.5017 & 0.4662 \\
+\hline
+\end{tabular}
+\caption{Comparison of CRF's performance in different markets at different $k$}
+\end{table}
+ \citet{RePEc:eee:quaeco:v:50:y:2010:i:3:p:377-385} suggested that headlines are more useful to forecast than contents. Our experiment sees some minor enhancements, but nothing conclusive yet.
 
-Each news article consists of its headline, abstract, lead paragraph and publishing date. The publishing date is used to allign with the corresponding price in the financial series. The price series from Future and Spot Market is also included, graciously provided by Bayer AG.
-
-Data cover the period from October 20, 2006 to September 31, 2018
-
-The data is split into a series of windows, each has the length of 20. The stride of the window is 7. Target is the price in three days after each window.  We are currently using Glove embedding to convert the abstract of the news into vector.
-
-Loss function being used is Mean Square Error
 
 ## Knowledge graph first idea
 <mark>NEW
