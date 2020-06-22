@@ -6,7 +6,7 @@ excerpt: News article can influence stock market, or any market that perform on 
 date:   2018-10-22 22:00:00
 mathjax: true
 ---
-
+@import "{{ site.theme }}";
 <mark> This is an ongoing document and will be updated in weekly basis
 
 # Abstract
