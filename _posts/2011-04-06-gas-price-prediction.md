@@ -1,8 +1,4 @@
 ---
----
-@import "{{ site.theme }}";
-
----
 tags: knowledge-graph
 comments: false
 title:  "News to knowledge graph to prediction"
