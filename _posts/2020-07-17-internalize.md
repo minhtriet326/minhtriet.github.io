@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Muses"
+excerpt: Random thoughts
+---
+
 1. The smallest change that can have the biggest effect is often one click away, in the form of
   - A sentence in an email
   - A click to a paper
