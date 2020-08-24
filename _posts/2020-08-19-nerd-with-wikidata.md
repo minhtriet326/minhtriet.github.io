@@ -4,7 +4,7 @@ title:  "Named Entity Recognition and Disambiguation"
 excerpt: My take on NERD with the help of Wikidata
 ---
 
-## Named Entity Recognition and Disambiguation
+
 ### Motivation
 
 Named Entity Recognition and Disambiguation is a challenge in query understading. Here are a couple of examples in case you haven’t heard of NERD.
