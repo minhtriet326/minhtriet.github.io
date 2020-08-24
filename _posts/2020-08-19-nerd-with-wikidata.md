@@ -17,7 +17,7 @@ A lot of this is based on the context around the word, which I am aiming to solv
 The lack of context in a short query is also a challenge.
 
 ### Demo
-[`read harry potter vs watch harry potter`?](http://142.93.230.57/)
+[read `harry potter` vs watch `harry potter`?](http://142.93.230.57/)
 
 ### Tech stuff
 
@@ -26,6 +26,7 @@ The lack of context in a short query is also a challenge.
 - Wikidata for knowledge base
 - Docker compose for deploying
 - ReactJS for front end
+
 #### Hardware
 - 2GB Ram
 - 1 shared CPU
