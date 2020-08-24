@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading list"
-excerpt: What I have read through the years
+excerpt: What I have read
 ---
 
 ## 2020
