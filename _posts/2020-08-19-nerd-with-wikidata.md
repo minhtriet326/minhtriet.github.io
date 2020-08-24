@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Named Entity Recognition and Disambiguation"
+excerpt: My take on NERD with the help of Wikidata
+---
+
+
 ## Named Entity Recognition and Disambiguation
 ### Motivation
 
