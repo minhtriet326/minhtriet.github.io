@@ -2,11 +2,10 @@
 layout: default
 ---
 
-<ul class="posts">
+<ul class="posts main-content">
   {% for post in site.posts %}
     <li>
       <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-      <br>
       {{ post.excerpt }}
     </li>
   {% endfor %}
