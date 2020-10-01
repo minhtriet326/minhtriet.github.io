@@ -13,3 +13,6 @@ Definitely some overlaps in methods here, reminding of the snow ball effect. One
 
 ### August
 I still read Think Like a Rocket Scientist. Thinking on one's feet might as well be a superpower now. Same thing in music making though, I have heard people said they want to quit music after listening to Herbie Hancock or Jacob Collier many times, which I hope is purely jokes
+
+### September
+Bad blood, one hell of a depressing read. EH may have treated people badly, but according to what I've read till now, we don't know what the causes are. Is she like this from the beginning?
