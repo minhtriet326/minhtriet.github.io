@@ -12,7 +12,7 @@ What I like: Cool mentors. I saw a dude able to gamify a hydration reminder in 2
 What could do better: I could have influenced the team direction more and probably save us about four hours * 4 people.
 Facebook page, Some write up
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com)
+[![Foo](https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg)](http://google.com)
 I am the first from the right top line, our mentor Bruce on the 3rd from the right, top line
 
 ## Bachelor thesis
