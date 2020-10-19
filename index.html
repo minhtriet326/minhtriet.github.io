@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="posts">
+<ul class="posts">
   {% for post in site.posts %}
       <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
       {{ post.excerpt }}
