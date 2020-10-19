@@ -6,7 +6,7 @@ excerpt: An overview and reflection of my portfolio
 ---
 ### Health hackathon
 #### Challenge 
-In 49 hours, create an app around the topic of health. [Facebook](https://www.facebook.com/jvhackingfest/?fref=nf) [Write up](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)
+In 49 hours, create an app around the topic of health. ([Facebook](https://www.facebook.com/jvhackingfest/?fref=nf)) ([Featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam))
 
 #### What I like
 Cool mentors. I saw a dude gamify a hydration reminder. I team up with some random dudes on the day of the hackathon, we won 2nd price.
@@ -40,10 +40,10 @@ What make me proud I stop accepting the model as the black box and try to wrestl
 An analyse about what words may trigger the gas price
 
 
-### NERD 
+### Named Entity Recognition and Disambiguation with Wikidata 
 
 #### What I like
-I the test just to see which 2 words are
+I did everything and tried my hand with ReactJS. I divise tests just to see which 2 words are.
 
 #### What I could do better
-I deployed it on a tiny machine to test the performance, but EC2 with education account somehow do not allow me to scale the instance up (?)
+I deployed it on a tiny machine to test the performance, but EC2 with education account somehow do not allow me to scale the instance up (?). Also could not find a Wikidata NERD dataset
