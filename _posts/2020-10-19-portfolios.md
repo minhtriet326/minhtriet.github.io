@@ -4,10 +4,8 @@ comments: false
 title:  Portfolio
 excerpt: An overview and reflection of my portfolio
 ---
-## Health hacking
-
-https://www.facebook.com/jvhackingfest/?fref=nf
-https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam
+## Health hackathon
+Challenge: In 49 hours, create an app around the topic of health. [Facebook](https://www.facebook.com/jvhackingfest/?fref=nf) [Write up](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)
 What I like: Cool mentors. I saw a dude able to gamify a hydration reminder in 2 days 1 night, note that this was in 2013, before Apple integrate those in their Health app. I team up with some dudes, we won 2nd price.
 What could do better: I could have influenced the team direction more and probably save us about four hours * 4 people.
 Facebook page, Some write up
