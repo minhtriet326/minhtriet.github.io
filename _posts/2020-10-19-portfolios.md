@@ -27,8 +27,6 @@ Meaningful project because the supervisor suffer from shibboleth. Leader in the 
 #### What I could do better
 The machine learning model sounds cool but not everything. What matters at the end is the product I deliver.
 
-
-
 ###
 
 Computer vision on how to find things on a table top environment. Got purchased by .... Paper here
@@ -42,5 +40,10 @@ What make me proud I stop accepting the model as the black box and try to wrestl
 An analyse about what words may trigger the gas price
 
 
-NERD 
-I wrote a test just to see which 2 words are
+### NERD 
+
+#### What I like
+I the test just to see which 2 words are
+
+#### What I could do better
+I deployed it on a tiny machine to test the performance, but EC2 with education account somehow do not allow me to scale the instance up (?)
