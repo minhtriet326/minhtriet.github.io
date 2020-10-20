@@ -19,7 +19,6 @@ Use Machine Learning to fix Shibboleth for Vietnamese language speakers [Wikiped
 
 **What I like:** Big impact, as 22.27% teachers and students of the capital city ([Source in Vietnamese](https://kenhtuyensinh.vn/gan-47000-giao-vien-va-hoc-sinh-noi-ngong)), our supervisor included, suffers from shibboleth. I lead in the team, and this project introduced me to machine learning and tried my hand at data collection and model deployment.
 
-
 ### Industrial robotics software
 Pose estimation on a table top environment, with whole dataset consist of two images. My work is in University of Bonn's (EuroC Challenge)[https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing], [Paper](\href{https://arxiv.org/abs/2001.04134)
 
@@ -28,9 +27,10 @@ Pose estimation on a table top environment, with whole dataset consist of two im
 ### Master thesis
 Gas price prediction
 
-**What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Finally get to [publish it](http://ceur-ws.org/Vol-2611/paper2.pdf). Top ten most influential words to gas price. It is the table 6 in my work.
+**What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Finally get to [publish it](http://ceur-ws.org/Vol-2611/paper2.pdf). Top ten most influential words to gas price according to . It is the table 6 in my work.
 
 <p style="text-align: center;">
+ 
 | 2012   | 2018 |
 |--------|------|
 | oil    | energy     |
@@ -43,15 +43,12 @@ Gas price prediction
 | coal | LNG |
 | deal | UK |
 | Shell | rise |
+
 </p>
-
-
 
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
 Would the first and second Harry Potter `watch **harry potter** vs read **harry potter**?` be resolved to `film` and `book`?
 I create a demo [here](http://54.91.75.203/).
 
-**What I like** I did everything and tried my hand with ReactJS. I divise tests just to see which 2 words are.
-
-**What I could do better** I deployed it on a tiny machine to test the performance, but EC2 with education account somehow do not allow me to scale the instance up (?). Also could not find a Wikidata NERD dataset
+**What I like:** Tried my hand with ReactJS. I divise tests to see if cosine distance of different Word Embeddings suit the short text nature
