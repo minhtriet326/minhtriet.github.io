@@ -28,17 +28,22 @@ Pose estimation on a table top environment, with whole dataset consist of two im
 ### Master thesis
 Gas price prediction
 
-**What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Finally get to [publish it](http://ceur-ws.org/Vol-2611/paper2.pdf)
-An analyse about what words may trigger the gas price. It is the table 6 in my work.
+**What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Finally get to [publish it](http://ceur-ws.org/Vol-2611/paper2.pdf). Top ten most influential words to gas price. It is the table 6 in my work.
 
-| 2005   | 2018 |
+<p style="text-align: center;">
+| 2012   | 2018 |
 |--------|------|
-| oil    |      |
-| energy |      |
-| price  |      |
-| FTSE   |      |
-|        |      |
-
+| oil    | energy     |
+| energy | gas      |
+| price  | oil     |
+| FTSE   | China     |
+| fall   | Trump     |
+| shale  | trade |
+| power | price |
+| coal | LNG |
+| deal | UK |
+| Shell | rise |
+</p>
 
 
 
