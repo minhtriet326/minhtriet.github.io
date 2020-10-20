@@ -1,16 +1,15 @@
 ---
 tags: knowledge-graph
 comments: false
-title:  My Portfolio
+title:  Some of my works
 excerpt: An overview and reflection of my portfolio
 ---
 ### Health hackathon
-#### Challenge 
-In 49 hours, create an app around the topic of health. ([Facebook](https://www.facebook.com/jvhackingfest/?fref=nf)) ([Featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam))
+In 49 hours, create an health care app. ([Facebook](https://www.facebook.com/jvhackingfest/?fref=nf)) ([Featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam))
 
-#### What I like
-Cool mentors. I saw a dude gamify a hydration reminder. I team up with some random dudes on the day of the hackathon, we won 2nd price.
-What could do better: Could have influenced the team direction more and probably save us 4 hours * 4 people.
+**What I like** Cool mentors. A dude gamified a hydration reminder. I teamed up with some random dudes on the day of the hackathon, we won 2nd price.
+
+**What could do better** Could have influenced the team direction more and probably save us 4 hours * 4 people.
 
 <figure>
 <img src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="500"/>
