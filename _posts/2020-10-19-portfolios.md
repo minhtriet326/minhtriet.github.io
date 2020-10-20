@@ -40,6 +40,8 @@ An analyse about what words may trigger the gas price. It is the table 6 in my w
 |        |      |
 
 
+
+
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
 Would the first and second Harry Potter `watch **harry potter** vs read **harry potter**?` be resolved to `film` and `book`?
