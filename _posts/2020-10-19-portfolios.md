@@ -19,7 +19,7 @@ In 49 hours, create an health care app. ([Facebook](https://www.facebook.com/jvh
 ### Bachelor thesis
 Use Machine Learning to fix Shibboleth for Vietnamese language speakers [Wikipedia](https://en.wikipedia.org/wiki/Vietnamese_phonology#Initial_consonants)
 
-**What I like:** Big impact, as 22.27% teachers and students of the capital city, our supervisor included, suffers from shibboleth. I lead in the team, and this project introduced me to machine learning and tried my hand at data collection and model deployment.
+**What I like:** Big impact, as 22.27% teachers and students of the capital city ([Source in Vietnamese](https://kenhtuyensinh.vn/gan-47000-giao-vien-va-hoc-sinh-noi-ngong)], our supervisor included, suffers from shibboleth. I lead in the team, and this project introduced me to machine learning and tried my hand at data collection and model deployment.
 
 **What I could do better:** The machine learning model sounds cool but not everything. What matters at the end is the product I deliver.
 
