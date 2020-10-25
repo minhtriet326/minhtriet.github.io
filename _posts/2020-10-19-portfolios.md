@@ -14,7 +14,7 @@ In 49 hours, create an health care app. ([Facebook](https://www.facebook.com/jvh
 <figcaption>I am the first from the right, top line</figcaption>
  </figure>
  
-<iframe width="400" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Bachelor thesis
 Use Machine Learning to fix [shibboleth for Vietnamese language speakers](https://en.wikipedia.org/wiki/Vietnamese_phonology#Initial_consonants)
