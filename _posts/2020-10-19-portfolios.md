@@ -10,12 +10,15 @@ In 49 hours, create an health care app. ([Facebook](https://www.facebook.com/jvh
 **What I like:** Cool mentors. A dude gamified a hydration reminder. I teamed up with some random dudes right on the day of the hackathon, our ragtag team won 2nd price.
 
 <figure>
-<img src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="500"/>
-<figcaption>I am the first from the right top line, our mentor Bruce on the 3rd from the right, top line</figcaption>
+<img src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="300"/>
+<figcaption>I am the first from the right, top line</figcaption>
  </figure>
+ 
+ <iframe width="300" src="https://www.youtube.com/embed/2OjyYhaLu5w?t=23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 ### Bachelor thesis
-Use Machine Learning to fix Shibboleth for Vietnamese language speakers [Wikipedia](https://en.wikipedia.org/wiki/Vietnamese_phonology#Initial_consonants)
+Use Machine Learning to fix [shibboleth for Vietnamese language speakers](https://en.wikipedia.org/wiki/Vietnamese_phonology#Initial_consonants)
 
 **What I like:** Big impact, as 22.27% teachers and students of the capital city ([Source in Vietnamese](https://kenhtuyensinh.vn/gan-47000-giao-vien-va-hoc-sinh-noi-ngong)), our supervisor included, suffers from shibboleth. I lead in the team, and this project introduced me to machine learning and tried my hand at data collection and model deployment.
 
