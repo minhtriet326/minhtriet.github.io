@@ -45,7 +45,7 @@ Gas price prediction
 
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
-Would the first and second Harry Potter `watch **harry potter** vs read **harry potter**?` be resolved to `film` and `book`?
+Would the first and second Harry Potter `watch [harry potter] vs read [harry potter]` be resolved to `film` and `book`?
 I create a demo [here](http://54.91.75.203/).
 
 **What I like:** Tried my hand with ReactJS. I divise tests to see if cosine distance of different Word Embeddings suit the short text nature
