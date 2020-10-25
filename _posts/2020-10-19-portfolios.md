@@ -7,13 +7,14 @@ excerpt: An overview and reflection of my portfolio
 In 49 hours, create an health care app. ([Facebook](https://www.facebook.com/jvhackingfest/?fref=nf)) ([Featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam))
 
 **What I like:** Cool mentors. A dude gamified a hydration reminder. I teamed up with some random dudes right on the day of the hackathon, our ragtag team won 2nd price.
-
+<p align="center">
 <figure>
-<img src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="400"/>
+<img align="left" src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="400"/>
 <figcaption>I am the first from the right, top line</figcaption>
  </figure>
  
 <iframe width="400" height="300" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Bachelor thesis
 Use Machine Learning to fix [shibboleth for Vietnamese language speakers](https://en.wikipedia.org/wiki/Vietnamese_phonology#Initial_consonants)
