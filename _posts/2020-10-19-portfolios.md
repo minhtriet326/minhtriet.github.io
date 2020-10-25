@@ -10,11 +10,11 @@ In 49 hours, create an health care app. ([Facebook](https://www.facebook.com/jvh
 **What I like:** Cool mentors. A dude gamified a hydration reminder. I teamed up with some random dudes right on the day of the hackathon, our ragtag team won 2nd price.
 
 <figure>
-<img src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="300"/>
+<img src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="400"/>
 <figcaption>I am the first from the right, top line</figcaption>
  </figure>
  
- <iframe width="300" src="https://www.youtube.com/embed/2OjyYhaLu5w?t=23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ <iframe width="400" src="https://www.youtube.com/embed/2OjyYhaLu5w?t=23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 ### Bachelor thesis
