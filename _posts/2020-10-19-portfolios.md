@@ -31,6 +31,7 @@ Gas price prediction
 
 **What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Finally get to [publish it](http://ceur-ws.org/Vol-2611/paper2.pdf). Top ten most influential words to gas price according to my model. It is the table 6 in my work.
 
+<center>
  
 | 2012   | 2018 |
 |--------|------|
@@ -44,6 +45,8 @@ Gas price prediction
 | coal | LNG |
 | deal | UK |
 | Shell | rise |
+
+</center>
 
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
