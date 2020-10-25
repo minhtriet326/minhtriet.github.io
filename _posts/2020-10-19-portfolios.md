@@ -20,16 +20,15 @@ Use Machine Learning to fix Shibboleth for Vietnamese language speakers [Wikiped
 **What I like:** Big impact, as 22.27% teachers and students of the capital city ([Source in Vietnamese](https://kenhtuyensinh.vn/gan-47000-giao-vien-va-hoc-sinh-noi-ngong)), our supervisor included, suffers from shibboleth. I lead in the team, and this project introduced me to machine learning and tried my hand at data collection and model deployment.
 
 ### Industrial robotics software
-Pose estimation on a table top environment, with whole dataset consist of two images. My work is in University of Bonn's (EuroC Challenge)[https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing], [Paper](\href{https://arxiv.org/abs/2001.04134)
+Pose estimation on a table top environment, with whole dataset consist of two images. My work is in University of Bonn's [EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing), [Paper](\href{https://arxiv.org/abs/2001.04134)
 
 **What I like:** How to adapt when our training data consists of RGBD data of one images, and still deliver (A company named igus GmbH bought our work!)
 
 ### Master thesis
 Gas price prediction
 
-**What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Finally get to [publish it](http://ceur-ws.org/Vol-2611/paper2.pdf). Top ten most influential words to gas price according to . It is the table 6 in my work.
+**What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Finally get to [publish it](http://ceur-ws.org/Vol-2611/paper2.pdf). Top ten most influential words to gas price according to my model. It is the table 6 in my work.
 
-<p style="text-align: center;">
  
 | 2012   | 2018 |
 |--------|------|
@@ -43,8 +42,6 @@ Gas price prediction
 | coal | LNG |
 | deal | UK |
 | Shell | rise |
-
-</p>
 
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
