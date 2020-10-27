@@ -23,6 +23,8 @@ Pose estimation on a table top environment, with whole dataset consist of two im
 ### Rapid road detection
 Road detection with 50% faster intepretation time and retain more than 95% quality. [Implementation](https://github.com/minhtriet/clockwork-kitti) [Write up](arxiv)
 
+Green means another lane or intersected road, pink is the road the car currently on
+
 **What I like:** My first computer vision project. Seeing the result of the work in the visual form was quite a sensation.
 
 **What I could do better:** The write up was rough around the edge. I polished the tables in the link above.
