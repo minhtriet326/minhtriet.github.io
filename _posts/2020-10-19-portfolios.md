@@ -1,10 +1,9 @@
 ---
 comments: false
-title:  Some of my works
 excerpt: An overview and reflection of my portfolio
 ---
 ### Health hackathon
-In 49 hours, my team created a E-Prescription, an Android app to remind patients to take their medicine. 
+In 48 hours, my team created a E-Prescription, an Android app to remind patients to take their medicine. 
 
 **What I like:** 1) In Vietnam, antibiotics are overused as one do not need doctor's prescription to buy. This has caused Vietnam to be among the most overly tolerant antibiotic countries in the world. This app is aim to solve this problem.
 
@@ -32,7 +31,7 @@ Road detection with 50% faster intepretation time and retain more than 95% quali
 ### Master thesis
 Gas price prediction
 
-**What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Finally get to [publish it](http://ceur-ws.org/Vol-2611/paper2.pdf). Top ten most influential words to gas price according to my model. It is the table 6 in my work.
+**What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Top ten most influential words to gas price according to my model. It is the table 6 in my work.
 
 <div align="center">
  
@@ -50,6 +49,8 @@ Gas price prediction
 | Shell | rise |
 
 </div>
+
+[[Paper with code](https://paperswithcode.com/paper/open-domain-event-extraction-and-embedding)] [[In Proceeding of CEUR Worshop](http://ceur-ws.org/Vol-2611/paper2.pdf)]
 
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
