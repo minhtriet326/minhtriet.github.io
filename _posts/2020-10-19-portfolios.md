@@ -26,6 +26,14 @@ Pose estimation on a table top environment, with whole dataset consist of two im
 
 **What I like:** How to adapt when our training data consists of RGBD data of one images, and still deliver (A company named igus GmbH bought our work!)
 
+### Rapid road detection
+Road detection with 50% faster intepretation time and retain more than 95% quality. [Implementation](https://github.com/minhtriet/clockwork-kitti) [Write up](arxiv)
+
+**What I like:** My first computer vision project. Seeing the result of the work in the visual form was quite a sensation.
+
+**What I could do better:** The write up was rough around the edge. I polished the tables in the link above.
+
+
 ### Master thesis
 Gas price prediction
 
