@@ -42,18 +42,18 @@ Gas price prediction
 
 <div align="center">
  
-| 2012   | 2018 |
-|--------|------|
-| oil    | energy     |
-| energy | gas      |
-| price  | oil     |
-| FTSE   | China     |
-| fall   | Trump     |
-| shale  | trade |
-| power | price |
-| coal | LNG |
-| deal | UK |
-| Shell | rise |
+|| 2012   | 2018 |
+|-|--------|------|
+|1| oil    | energy     |
+|2| energy | gas      |
+|3| price  | oil     |
+|4| FTSE   | China     |
+|5| fall   | Trump     |
+|6| shale  | trade |
+|7| power | price |
+|8| coal | LNG |
+|9| deal | UK |
+|10| Shell | rise |
 
 </div>
 
