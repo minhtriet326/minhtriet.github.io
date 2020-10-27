@@ -9,8 +9,8 @@ In 48 hours, my team created E-Prescription, an Android app to remind patients t
 
 <p align="center" float="left">
 <figure>
-<img align="left" src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="400"/>
-  <iframe width="400" height="300" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img align="left" src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="350"/>
+  <iframe width="350" height="263" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption>I am the first from the right, top line</figcaption>
  </figure>
 </p>
