@@ -42,18 +42,67 @@ Gas price prediction
 
 <div align="center">
  
-|| 2012   | 2018 |
-|-|--------|------|
-|1| oil    | energy     |
-|2| energy | gas      |
-|3| price  | oil     |
-|4| FTSE   | China     |
-|5| fall   | Trump     |
-|6| shale  | trade |
-|7| power | price |
-|8| coal | LNG |
-|9| deal | UK |
-|10| Shell | rise |
+<table>
+<thead>
+<tr>
+<th></th>
+<th>2012</th>
+<th>2018</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>oil</td>
+<td>energy</td>
+</tr>
+<tr>
+<td>2</td>
+<td>energy</td>
+<td>gas</td>
+</tr>
+<tr>
+<td>3</td>
+<td>price</td>
+<td>oil</td>
+</tr>
+<tr>
+<td>4</td>
+<td>FTSE</td>
+<td>China</td>
+</tr>
+<tr>
+<td>5</td>
+<td>fall</td>
+<td>Trump</td>
+</tr>
+<tr>
+<td>6</td>
+<td>shale</td>
+<td>trade</td>
+</tr>
+<tr>
+<td>7</td>
+<td>power</td>
+<td>price</td>
+</tr>
+<tr>
+<td>8</td>
+<td>coal</td>
+<td>LNG</td>
+</tr>
+<tr>
+<td>9</td>
+<td>deal</td>
+<td>UK</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Shell</td>
+<td>rise</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
