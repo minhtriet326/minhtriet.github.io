@@ -18,7 +18,7 @@ Use Machine Learning to fix [shibboleth for Vietnamese language speakers](https:
 ### Industrial robotics software
 Pose estimation on a table top environment, with whole dataset consist of two images. My work is in University of Bonn's [EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing), [Paper](\href{https://arxiv.org/abs/2001.04134)
 
-**What I like:** How to adapt when our training data consists of RGBD data of one images, and still deliver (A company named igus GmbH bought our work!)
+**What I like:** How to adapt when our training data consists of RGBD data of one images, and still deliver (Citroën bought our work!)
 
 ### Rapid road detection
 Road detection with 50% faster intepretation time and retain more than 95% quality. [Implementation](https://github.com/minhtriet/clockwork-kitti) [Write up](arxiv)
