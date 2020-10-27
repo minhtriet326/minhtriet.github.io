@@ -4,17 +4,12 @@ title:  Some of my works
 excerpt: An overview and reflection of my portfolio
 ---
 ### Health hackathon
-In 49 hours, my team created a E-Prescription, an Android app to remind patients to take their medicine.  E-Prescription is the perfect solution for this.. ([Facebook](https://www.facebook.com/jvhackingfest/?fref=nf)) ([Featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam))
+In 49 hours, my team created a E-Prescription, an Android app to remind patients to take their medicine. 
 
-**What I like:** 1) In Vietnam, antibiotics are overused as one do not need doctor's prescription to buy. This has caused Vietnam to be among the most overly tolerant antibiotic countries in the world. This app is aim to solve this problem. 2) Unlike the other, I only find a team on the very day of the hackathon. Our ragtag team won 2nd price.
+**What I like:** 1) In Vietnam, antibiotics are overused as one do not need doctor's prescription to buy. This has caused Vietnam to be among the most overly tolerant antibiotic countries in the world. This app is aim to solve this problem.
 
-<p align="center">
-<figure>
-<img align="left" src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="400"/>
-<figcaption>I am the first from the right, top line</figcaption>
- <iframe width="400" height="300" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </figure>
-</p>
+[[Facebook of the Hackathon](https://www.facebook.com/jvhackingfest/?fref=nf)] [[We are featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)]
+
 
 ### Bachelor thesis
 Use Machine Learning to fix [shibboleth for Vietnamese language speakers](https://en.wikipedia.org/wiki/Vietnamese_phonology#Initial_consonants)
