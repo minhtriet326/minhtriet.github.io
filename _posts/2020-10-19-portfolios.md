@@ -10,8 +10,8 @@ In 48 hours, my team created E-Prescription, an Android app to remind patients t
 <p align="center" float="left">
 <figure>
 <img align="left" src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="350"/>
-  <iframe width="350" height="263" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<figcaption>In the picture, I am the first from the right, top line. I am also the speaker in the video</figcaption>
+  <iframe width="350" height="263" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption>In the picture, I am the first from the right, top line. I am also the speaker in the video from 0:09 to 0:17</figcaption>
  </figure>
 </p>
 
