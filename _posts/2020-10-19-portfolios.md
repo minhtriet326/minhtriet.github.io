@@ -133,6 +133,8 @@ Is it possible to do NERD in short queries, where there is fewer grammar clues o
 Would `watch [harry potter] vs read [harry potter]` be resolved to `Harry Potter film` and `Harry Potter book`?
 I create a demo . I discovered that there are fewer dataset that deal with short text than I thought. Twitter datasets are an option, but developer has to deal with @ mention while I envisioned this as more of a search machine.
 
+**Hardware:** 2 GBs RAM, 1 shared CPU
+
 **What I like:** I divise tests to see if cosine distance of different Word Embeddings suit the short text nature.
 
-[[Demo](http://54.91.75.203/)]
+[[Demo](http://54.91.75.203/)][[Code](https://github.com/minhtriet/short_text_understanding)]
