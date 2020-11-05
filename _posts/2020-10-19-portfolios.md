@@ -7,15 +7,15 @@ In 48 hours, my team created E-Prescription, an Android app to remind patients t
 
 **What I like:** In Vietnam, antibiotics are overused as one does not need doctor's prescription to buy some. This has caused Vietnam to be among the most overly tolerant antibiotic countries. This app is aim to solve this problem.
 
-<p align="center" float="left">
+<div align="center" float="left">
 <figure>
 <img align="left" src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="350"/>
   <iframe width="350" height="263" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption>In the picture, I am the first from the right, top line. I am also the speaker in the video from 0:09 to 0:17</figcaption>
  </figure>
-</p>
+</div>
 
-[[Facebook of the Hackathon](https://www.facebook.com/jvhackingfest/?fref=nf)] [[We are featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)]
+[[Our product is featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)][[Facebook page of the Hackathon, for more videos and photos](https://www.facebook.com/jvhackingfest/?fref=nf)] 
 
 
 ### Bachelor thesis
@@ -24,12 +24,15 @@ Use Machine Learning to fix [shibboleth for Vietnamese language speakers](https:
 **What I like:** Big impact, as 22.27% teachers and students of the capital city ([Source in Vietnamese](https://kenhtuyensinh.vn/gan-47000-giao-vien-va-hoc-sinh-noi-ngong)) suffers from shibboleth. I lead the team, and this project introduced me to machine learning and tried my hand at data collection and model deployment.
 
 ### Industrial robotics software
-Pose estimation on a table top environment, with whole dataset consist of two images. My work is in University of Bonn's [EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing), [Paper](\href{https://arxiv.org/abs/2001.04134)
+Pose estimation on a table top environment, with whole dataset consist of two images. My work is in University of Bonn's work in EuroC Challenge.
+
+
+[EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing), [Paper](\href{https://arxiv.org/abs/2001.04134)
 
 **What I like:** How I adapted when the training data consists of RGBD data of one images, and still deliver (Citroën bought our work!)
 
 ### Rapid road detection
-Road detection with 50% faster intepretation time and retain more than 95% quality. [Implementation](https://github.com/minhtriet/clockwork-kitti) [Paper](https://arxiv.org/pdf/2010.15250.pdf)
+Road detection with 50% faster intepretation time and retain more than 95% quality. 
 
 <p align="center">
   <figure>
@@ -40,8 +43,7 @@ Road detection with 50% faster intepretation time and retain more than 95% quali
 
 **What I like:** My first computer vision project. Seeing the result of the work in the visual form was quite a sensation.
 
-**What I could do better:** The paper was rough around the edge. I polished the tables in the link above.
-
+[Implementation](https://github.com/minhtriet/clockwork-kitti) [Paper](https://arxiv.org/pdf/2010.15250.pdf)
 
 ### Master thesis
 Gas price prediction
@@ -119,14 +121,14 @@ Gas price prediction
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
 My excuse to learn ReactJS, Docker and deploying with EC2. I also played around with online demos of NERD and find the performance a bit unexpected.
 
-<p align="center">
+<div align="center">
   
   <figure>
   <img src="/assets/spacy_ner.gif"/>
      <figcaption>Short text queries are probably not spaCy main concern, for a good reason. Accessed on 5th November 2020 </figcaption>
  </figure>
  
-</p>
+</div>
 
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
 Would `watch [harry potter] vs read [harry potter]` be resolved to `Harry Potter film` and `Harry Potter book`?
