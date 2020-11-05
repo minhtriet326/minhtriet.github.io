@@ -3,7 +3,7 @@ layout: post
 title:  "Named Entity Recognition and Disambiguation"
 excerpt: My take on NERD with the help of Wikidata
 ---
-
+<meta http-equiv="refresh" content="0; URL=https://bob.github.io/repo/">
 
 ### Motivation
 
