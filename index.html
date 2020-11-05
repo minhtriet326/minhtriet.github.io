@@ -4,7 +4,9 @@ layout: default
 
 <ul class="posts">
   {% for post in site.posts %}
+    {% if page.unlist == "true" %}
       <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
       {{ post.excerpt }}
+    {% endif %}
   {% endfor %}
 </div>
