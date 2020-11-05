@@ -117,8 +117,19 @@ Gas price prediction
 [[Paper with code](https://paperswithcode.com/paper/open-domain-event-extraction-and-embedding)] [[In Proceeding of CEUR Worshop](http://ceur-ws.org/Vol-2611/paper2.pdf)]
 
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
+My excuse to learn ReactJS, Docker and deploying with EC2. I also played around with online demos of NERD and find the performance a bit unexpected.
+
+<p align="center">
+  <figure>
+  <img src="/assets/spacy_ner.gif"/>
+     <figcaption>I respect spaCy, just that short text are not their main concern. Accessed on 5th November 2020 </figcaption>
+ </figure>
+</p>
+
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
 Would `watch [harry potter] vs read [harry potter]` be resolved to `Harry Potter film` and `Harry Potter book`?
-I create a demo [here](http://54.91.75.203/).
+I create a demo . I discovered that there are fewer dataset that deal with short text than I thought. Twitter datasets are an option, but developer has to deal with @ mention while I envisioned this as more of a search machine.
 
-**What I like:** Tried my hand with ReactJS. I divise tests to see if cosine distance of different Word Embeddings suit the short text nature
+**What I like:** I divise tests to see if cosine distance of different Word Embeddings suit the short text nature.
+
+[Demo](http://54.91.75.203/)
