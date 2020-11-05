@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Named Entity Recognition and Disambiguation"
-unlist: true
+hidden: true
 excerpt: My take on NERD with the help of Wikidata
 ---
 
