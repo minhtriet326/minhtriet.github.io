@@ -122,7 +122,7 @@ My excuse to learn ReactJS, Docker and deploying with EC2. I also played around 
 <p align="center">
   <figure>
   <img src="/assets/spacy_ner.gif"/>
-     <figcaption>I respect spaCy, just that short text are not their main concern. Accessed on 5th November 2020 </figcaption>
+     <figcaption>Short text queries are probably not spaCy main concern, for a good reason. Accessed on 5th November 2020 </figcaption>
  </figure>
 </p>
 
