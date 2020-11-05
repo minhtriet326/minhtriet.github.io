@@ -120,10 +120,12 @@ Gas price prediction
 My excuse to learn ReactJS, Docker and deploying with EC2. I also played around with online demos of NERD and find the performance a bit unexpected.
 
 <p align="center">
+  
   <figure>
   <img src="/assets/spacy_ner.gif"/>
      <figcaption>Short text queries are probably not spaCy main concern, for a good reason. Accessed on 5th November 2020 </figcaption>
  </figure>
+ 
 </p>
 
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
