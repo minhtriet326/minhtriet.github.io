@@ -131,7 +131,7 @@ My excuse to learn ReactJS, Docker and deploying with EC2. I also played around 
 
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
 Would `watch [harry potter] vs read [harry potter]` be resolved to `Harry Potter film` and `Harry Potter book`?
-I create a demo . I discovered that there are fewer dataset that deal with short text than I thought. Twitter datasets are an option, but developer has to deal with @ mention while I envisioned this as more of a search machine.
+I create a demo . I discovered that there are fewer dataset that deal with short query than I thought.
 
 **Hardware:** 2 GBs RAM, 1 shared CPU
 
