@@ -15,7 +15,7 @@ In 48 hours, my team created E-Prescription, an Android app to remind patients t
  </figure>
 </div>
 
-[[Our product is featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)][[Facebook page of the Hackathon, for more videos and photos](https://www.facebook.com/jvhackingfest/?fref=nf)] 
+[[Our product is featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)][[Facebook page of the Hackathon](https://www.facebook.com/jvhackingfest/?fref=nf)] 
 
 
 ### Bachelor thesis
@@ -27,19 +27,19 @@ Use Machine Learning to fix [shibboleth for Vietnamese language speakers](https:
 Pose estimation on a table top environment, with whole dataset consist of two images. My work is in University of Bonn's work in EuroC Challenge.
 
 
-[EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing), [Paper](\href{https://arxiv.org/abs/2001.04134)
+[EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing)[Paper](\href{https://arxiv.org/abs/2001.04134)
 
 **What I like:** How I adapted when the training data consists of RGBD data of one images, and still deliver (Citroën bought our work!)
 
 ### Rapid road detection
 Road detection with 50% faster intepretation time and retain more than 95% quality. 
 
-<p align="center">
+<div align="center">
   <figure>
   <img src="/assets/segmented.gif"/>
      <figcaption>Green means another lane or intersected road, pink is the road the car currently on</figcaption>
  </figure>
-</p>
+</div>
 
 **What I like:** My first computer vision project. Seeing the result of the work in the visual form was quite a sensation.
 
@@ -122,12 +122,11 @@ Gas price prediction
 My excuse to learn ReactJS, Docker and deploying with EC2. I also played around with online demos of NERD and find the performance a bit unexpected.
 
 <div align="center">
-  
   <figure>
   <img src="/assets/spacy_ner.gif"/>
-     <figcaption>Short text queries are probably not spaCy main concern, for a good reason. Accessed on 5th November 2020 </figcaption>
+     <figcaption>Short text queries are probably not spaCy main concern, for a good reason.  </figcaption>
+     <figcaption>Accessed on 5th November 2020 </figcaption>
  </figure>
- 
 </div>
 
 Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
