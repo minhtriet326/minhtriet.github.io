@@ -11,7 +11,8 @@ In 48 hours, my team created E-Prescription, an Android app to remind patients t
 <figure>
 <img align="left" src="https://cdn.techinasia.com/wp-content/uploads/2013/11/jv-hacking-fest-vietnam-saigon-720x540.jpg" alt="drawing" width="350"/>
   <iframe width="350" height="263" src="https://www.youtube-nocookie.com/embed/2OjyYhaLu5w?start=9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<figcaption>In the picture, I am the first from the right, top line. I am also the speaker in the video from 0:09 to 0:17</figcaption>
+  <figcaption>In the picture, I am the first from the right, top line. </figcaption>
+  <figcaption>In the video, I am  the speaker from 0:09 to 0:17</figcaption>
  </figure>
 </div>
 
@@ -26,8 +27,7 @@ Use Machine Learning to fix [shibboleth for Vietnamese language speakers](https:
 ### Industrial robotics software
 Pose estimation on a table top environment, with whole dataset consist of two images. My work is in University of Bonn's work in EuroC Challenge.
 
-
-[EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing)[Paper](\href{https://arxiv.org/abs/2001.04134)
+[[EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing)][[Paper](\href{https://arxiv.org/abs/2001.04134)]
 
 **What I like:** How I adapted when the training data consists of RGBD data of one images, and still deliver (Citroën bought our work!)
 
@@ -43,7 +43,7 @@ Road detection with 50% faster intepretation time and retain more than 95% quali
 
 **What I like:** My first computer vision project. Seeing the result of the work in the visual form was quite a sensation.
 
-[Implementation](https://github.com/minhtriet/clockwork-kitti) [Paper](https://arxiv.org/pdf/2010.15250.pdf)
+[[Implementation](https://github.com/minhtriet/clockwork-kitti)][[Paper](https://arxiv.org/pdf/2010.15250.pdf)]
 
 ### Master thesis
 Gas price prediction
@@ -135,4 +135,4 @@ I create a demo . I discovered that there are fewer dataset that deal with short
 
 **What I like:** I divise tests to see if cosine distance of different Word Embeddings suit the short text nature.
 
-[Demo](http://54.91.75.203/)
+[[Demo](http://54.91.75.203/)]
