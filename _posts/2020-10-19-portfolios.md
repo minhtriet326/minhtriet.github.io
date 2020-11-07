@@ -5,7 +5,7 @@ excerpt: An overview and reflection of my portfolio
 ### Health hackathon
 In 48 hours, my team created E-Prescription, an Android app to remind patients to take their medicine. 
 
-**What I like:** In Vietnam, antibiotics are overused as one does not need doctor's prescription to buy some. This has caused Vietnam to be among the most overly tolerant antibiotic countries. This app is aim to solve this problem.
+**What I like:** In Vietnam, antibiotics are overused as one does not need a doctor's prescription to buy some. When they forgot to take their medicine, it is common to double the dosage in the next intake. It contributed to Vietnam being among the most overly tolerant antibiotic countries. 
 
 <div align="center" float="left">
 <figure>
@@ -16,12 +16,12 @@ In 48 hours, my team created E-Prescription, an Android app to remind patients t
  </figure>
 </div>
 
-[[Our product is featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)][[Facebook page of the Hackathon](https://www.facebook.com/jvhackingfest/?fref=nf)] 
+[[Our app featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)][[Facebook page of the Hackathon](https://www.facebook.com/jvhackingfest/?fref=nf)] 
 
 ---
 
 ### Industrial robotics software
-Pose estimation on a table top environment, with whole dataset consist of two images. My work helped University of Bonn's win the EuroC Challenge.
+Pose estimation on a tabletop environment challenge, whose whole dataset consists of two images. My work helped the University of Bonn’s win the EuroC Challenge.
 
 <div align="center">
   <figure>
@@ -31,14 +31,14 @@ Pose estimation on a table top environment, with whole dataset consist of two im
  </figure>
 </div>
 
-**What I like:** How I adapted when the training data consists of RGBD data of one images, and still deliver (Citroën bought our work!)
+**What I like:** How I adapted when the training data consists of RGBD data of one image and still deliver (Citroën bought our work!)
 
 [[EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing)][[Paper](\href{https://arxiv.org/abs/2001.04134)]
 
 ---
 
 ### Rapid road detection
-Road detection with 50% faster intepretation time and retain more than 95% quality. 
+Road detection with 50% faster interpretation speed and retain more than 95% quality. 
 
 <div align="center">
   <figure>
@@ -55,7 +55,7 @@ Road detection with 50% faster intepretation time and retain more than 95% quali
 ### Master thesis
 Gas price prediction
 
-**What I like:** I step away from accepting the model as the black box and try to wrestle some sense out of it, which I found most papers that I've read lagging behind. Top ten most influential words to gas price according to my model. It is the table 6 in my work.
+**What I like:** I stepped away from accepting the model as the black box and tried to wrestle some sense out of it. Below are the ten most influential words to gas price according to my model. It is Table 6 in my paper.
 
 <div align="center">
  
@@ -127,7 +127,7 @@ Gas price prediction
 
 ---
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
-My excuse to learn ReactJS, Docker and deploying with EC2. I also played around with online demos of NERD and find the performance a bit unexpected.
+This is my excuse to learn ReactJS, Docker, and deploying with EC2. I played around with online demos of NERD and found the performance a bit unexpected.
 
 <div align="center">
   <figure>
@@ -137,12 +137,12 @@ My excuse to learn ReactJS, Docker and deploying with EC2. I also played around 
  </figure>
 </div>
 
-Is it possible to do NERD in short queries, where there is fewer grammar clues or captitalization like in a sentence? 
+Is it possible to do NERD in short queries, where there are fewer grammar clues or capitalization like in a sentence? 
 Would `watch [harry potter] vs read [harry potter]` be resolved to `Harry Potter film` and `Harry Potter book`?
-I create a demo . I discovered that there are fewer dataset that deal with short query than I thought.
+I create a demo. I discovered that there are fewer datasets that deals with short query than I thought.
 
 **Hardware:** 2 GBs RAM, 1 shared CPU
 
-**What I like:** I divise tests to see if cosine distance of different Word Embeddings suit the short text nature.
+**What I like:** I devise tests to see if the cosine distances of different Word Embeddings suit the short text nature.
 
 [[Demo](http://54.91.75.203/)][[Code](https://github.com/minhtriet/short_text_understanding)]
