@@ -18,18 +18,20 @@ In 48 hours, my team created E-Prescription, an Android app to remind patients t
 
 [[Our product is featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)][[Facebook page of the Hackathon](https://www.facebook.com/jvhackingfest/?fref=nf)] 
 
-
-### Bachelor thesis
-Use Machine Learning to fix [shibboleth for Vietnamese language speakers](https://en.wikipedia.org/wiki/Vietnamese_phonology#Initial_consonants)
-
-**What I like:** Big impact, as 22.27% teachers and students of the capital city ([Source in Vietnamese](https://kenhtuyensinh.vn/gan-47000-giao-vien-va-hoc-sinh-noi-ngong)) suffers from shibboleth. I lead the team, and this project introduced me to machine learning and tried my hand at data collection and model deployment.
-
 ### Industrial robotics software
-Pose estimation on a table top environment, with whole dataset consist of two images. My work is in University of Bonn's work in EuroC Challenge.
+Pose estimation on a table top environment, with whole dataset consist of two images. My work helped University of Bonn's win the EuroC Challenge.
 
-[[EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing)][[Paper](\href{https://arxiv.org/abs/2001.04134)]
+<div align="center">
+  <figure>
+  <img height="263" src="/assets/nut_train.jpg"/>
+  <img height="263" src="/assets/nut_test.jpg"/>
+     <figcaption>Definitely the biggest dataset I have worked on. Left: Train data. Right: Test data</figcaption>
+ </figure>
+</div>
 
 **What I like:** How I adapted when the training data consists of RGBD data of one images, and still deliver (Citroën bought our work!)
+
+[[EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing)][[Paper](\href{https://arxiv.org/abs/2001.04134)]
 
 ### Rapid road detection
 Road detection with 50% faster intepretation time and retain more than 95% quality. 
