@@ -18,6 +18,8 @@ In 48 hours, my team created E-Prescription, an Android app to remind patients t
 
 [[Our product is featured in Tech in Asia](https://www.techinasia.com/jv-hacking-fest-healthcare-hackathon-vietnam)][[Facebook page of the Hackathon](https://www.facebook.com/jvhackingfest/?fref=nf)] 
 
+---
+
 ### Industrial robotics software
 Pose estimation on a table top environment, with whole dataset consist of two images. My work helped University of Bonn's win the EuroC Challenge.
 
@@ -33,6 +35,8 @@ Pose estimation on a table top environment, with whole dataset consist of two im
 
 [[EuroC Challenge](https://web.archive.org/web/20191204203324/http://www.euroc-project.eu/index.php?id=nimbro_manufacturing)][[Paper](\href{https://arxiv.org/abs/2001.04134)]
 
+---
+
 ### Rapid road detection
 Road detection with 50% faster intepretation time and retain more than 95% quality. 
 
@@ -47,6 +51,7 @@ Road detection with 50% faster intepretation time and retain more than 95% quali
 
 [[Implementation](https://github.com/minhtriet/clockwork-kitti)][[Paper](https://arxiv.org/pdf/2010.15250.pdf)]
 
+---
 ### Master thesis
 Gas price prediction
 
@@ -120,6 +125,7 @@ Gas price prediction
 
 [[Paper with code](https://paperswithcode.com/paper/open-domain-event-extraction-and-embedding)] [[In Proceeding of CEUR Worshop](http://ceur-ws.org/Vol-2611/paper2.pdf)]
 
+---
 ### Named Entity Recognition and Disambiguation (NERD) with Wikidata
 My excuse to learn ReactJS, Docker and deploying with EC2. I also played around with online demos of NERD and find the performance a bit unexpected.
 
